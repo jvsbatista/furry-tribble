@@ -80,6 +80,7 @@ h3
     display: inline-block;   
     font-size: 20px;
     padding: 20px 0px 20px 0px;
+    font-weight: normal;
 }
 
 .bis
@@ -129,5 +130,10 @@ footer
     background-color: #181718;
     padding: 30px;
     text-align: center;
+}
+
+.link 
+{
+    font-size: 20px;
 }
  
